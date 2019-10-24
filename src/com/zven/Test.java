@@ -14,5 +14,10 @@ public class Test {
         for (int i = 0; i < sArr.length; i++) {
             if (i==2) System.out.println("I = " + i);
         }
+
+
+        System.out.println("这是第二个版本，测试git管理");
+
+
     }
 }
